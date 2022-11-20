@@ -1,0 +1,17 @@
+@media (max-width: 740px){
+    .card-center .content-center{
+        font-size: 6px;
+    }
+    .content-bottom{
+        font-size: 8px;
+      }
+
+    .title{
+        font-size: 10px;
+      }
+
+      .card--first .content{
+        font-size: 12px;
+        top: 35%;
+      }
+}
